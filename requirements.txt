@@ -1,0 +1,7 @@
+streamlit
+nltk
+tiktoken
+youtube-transcript-api
+langchain-openai
+langchain-community
+pinecone-client
