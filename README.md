@@ -91,9 +91,10 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![Diagram](diagram.png)
 
 ## Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Author**: Sai Teja
+- **Email**: saiteja.srivilli@gmail.com
+- **GitHub**: [saitejasrivilli](https://github.com/saitejasrivilli)
